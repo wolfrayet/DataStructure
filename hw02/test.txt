@@ -1,0 +1,17 @@
+InsertBack dog 15
+InsertBack paper 25
+InsertBack pen 45
+InsertBack book 350
+InsertAfter mug 250 45
+Delete 25
+Delete 45
+Delete 15
+Reverse
+InsertBack paper 50
+InsertAfter comb 350 25
+InsertAfter comb 270 45
+Reverse
+Delete 250
+Delete 350
+InsertAfter mm 100 50
+End
